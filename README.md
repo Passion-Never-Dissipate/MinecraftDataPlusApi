@@ -1,0 +1,2 @@
+# MinecraftDataPlusApi
+一个用于获取服务器各种数据以及指令返回值的MCDR插件api
