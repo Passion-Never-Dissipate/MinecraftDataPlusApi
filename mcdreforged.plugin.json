@@ -1,0 +1,21 @@
+{
+	"id": "minecraft_data_plus_api",
+	"version": "1.0.0",
+	"name": "Minecraft Data Plus Api",
+	"description": {
+		"en_us": "An MCDR plugin API for obtaining various data from the server and returning command values",
+		"zh_cn": "一个以区域为单位备份或回档的MCDR插件"
+	},
+	"author": [
+		"FRUITS_CANDY"
+	],
+	"link": "https://github.com/Passion-Never-Dissipate/Minecraft_Data_Plus_Api",
+	"dependencies": {
+		"mcdreforged": ">=2.7.0"
+	},
+	"archive_name": "Minecraft_Data_Plus_Api-v{version}",
+	"resources": [
+		"LICENSE",
+		"lang"
+	]
+}
